@@ -1634,3 +1634,41 @@ const u16 gTilesetPalettes_UnionRoom[][16] =
 };
 
 const u32 gTilesetTiles_UnionRoom[] = INCBIN_U32("data/tilesets/secondary/union_room/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_NewBark[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_bark/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_NewBark[] = INCBIN_U32("data/tilesets/secondary/new_bark/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Twinleaf[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Twinleaf[] = INCBIN_U32("data/tilesets/secondary/twinleaf/tiles.4bpp.lz");
