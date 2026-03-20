@@ -21,10 +21,10 @@
     {
       "map": "MAP_ROUTE101",
       "offset": 0,
-      "direction": "down"
+      "direction": "left"
     },
     {
-      "map": "MAP_ROUTE102",
+      "map": "MAP_ROUTE101",
       "offset": 0,
       "direction": "left"
     }
