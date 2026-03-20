@@ -164,7 +164,7 @@
     {
       "id": "LAYOUT_ROUTE101",
       "name": "Route101_Layout",
-      "width": 96,
+      "width": 64,
       "height": 32,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Twinleaf",
@@ -4420,6 +4420,16 @@
       "secondary_tileset": "gTileset_Twinleaf",
       "border_filepath": "data/layouts/TESTMAP/border.bin",
       "blockdata_filepath": "data/layouts/TESTMAP/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_VERITY1",
+      "name": "Lake_Verity1_Layout",
+      "width": 64,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Twinleaf",
+      "border_filepath": "data/layouts/Lake_Verity1/border.bin",
+      "blockdata_filepath": "data/layouts/Lake_Verity1/map.bin"
     }
   ]
 }

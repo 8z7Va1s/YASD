@@ -15,13 +15,18 @@
   "connections": [
     {
       "map": "MAP_LITTLEROOT_TOWN",
-      "offset": 32,
+      "offset": 0,
       "direction": "down"
     },
     {
       "map": "MAP_OLDALE_TOWN",
       "offset": 0,
       "direction": "right"
+    },
+    {
+      "map": "MAP_TESTMAP",
+      "offset": 0,
+      "direction": "left"
     }
   ],
   "object_events": [

@@ -1059,3 +1059,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/TESTMAP/scripts.inc"
+
+	.include "data/maps/Lake_Verity1/scripts.inc"
