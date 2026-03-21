@@ -219,9 +219,7 @@
 #define METATILE_General_MuddySlope_Frame0    0x0E8
 #define METATILE_General_MuddySlope_Frame1    0x0E9
 #define METATILE_General_MuddySlope_Frame3    0x0F0
-#define METATILE_General_RedCaveIndent        0x1A0
-#define METATILE_General_RedCaveOpen          0x1A1
-#define METATILE_General_ReflectiveWater      0x000
+#define METATILE_General_ReflectiveWater      0x131
 #define METATILE_General_RockWall_GrassBase   0x079
 #define METATILE_General_RockWall_RockBase    0x07C
 #define METATILE_General_RoughDeepWater       0x14F
@@ -230,8 +228,6 @@
 #define METATILE_General_TallGrass            0x00B
 #define METATILE_General_TallGrass_TreeLeft   0x02E
 #define METATILE_General_TallGrass_TreeRight  0x02D
-#define METATILE_General_YellowCaveIndent     0x1A8
-#define METATILE_General_YellowCaveOpen       0x1A9
 
 // gTileset_GenericBuilding
 #define METATILE_GenericBuilding_TableEdge               0x2F1
