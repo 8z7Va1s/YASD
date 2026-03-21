@@ -222,8 +222,6 @@
 #define METATILE_General_ReflectiveWater      0x131
 #define METATILE_General_RockWall_GrassBase   0x079
 #define METATILE_General_RockWall_RockBase    0x07C
-#define METATILE_General_RoughDeepWater       0x14F
-#define METATILE_General_RoughWater           0x14E
 #define METATILE_General_SandPit_Center       0x121
 #define METATILE_General_TallGrass            0x00B
 #define METATILE_General_TallGrass_TreeLeft   0x02E
