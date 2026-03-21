@@ -211,12 +211,10 @@
 #define METATILE_General_CaveEntrance_Bottom  0x0A9
 #define METATILE_General_CaveEntrance_Top     0x0A1
 #define METATILE_General_Door                 0x02A
-#define METATILE_General_Door_Gym             0x1CD
+#define METATILE_General_Door_Gym             0x1D3
 #define METATILE_General_Door_PokeCenter      0x063
 #define METATILE_General_Door_PokeMart        0x041
 #define METATILE_General_Grass                0x001
-#define METATILE_General_Grass_TreeLeft       0x1E6
-#define METATILE_General_Grass_TreeRight      0x1E7
 #define METATILE_General_Grass_TreeUp         0x00E
 #define METATILE_General_MuddySlope_Frame0    0x0E8
 #define METATILE_General_MuddySlope_Frame1    0x0E9
