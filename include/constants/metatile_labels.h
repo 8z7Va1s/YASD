@@ -218,7 +218,6 @@
 #define METATILE_General_Grass_TreeLeft        0x1E6
 #define METATILE_General_Grass_TreeRight       0x1E7
 #define METATILE_General_Grass_TreeUp          0x00E
-#define METATILE_General_LongGrass             0x015
 #define METATILE_General_MuddySlope_Frame0     0x0E8
 #define METATILE_General_MuddySlope_Frame1     0x0E9
 #define METATILE_General_MuddySlope_Frame3     0x0F0
