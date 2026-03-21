@@ -174,10 +174,10 @@
     {
       "id": "LAYOUT_ROUTE102",
       "name": "Route102_Layout",
-      "width": 50,
-      "height": 20,
+      "width": 32,
+      "height": 32,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_Twinleaf",
       "border_filepath": "data/layouts/Route102/border.bin",
       "blockdata_filepath": "data/layouts/Route102/map.bin"
     },
@@ -344,10 +344,10 @@
     {
       "id": "LAYOUT_ROUTE119",
       "name": "Route119_Layout",
-      "width": 40,
-      "height": 140,
+      "width": 32,
+      "height": 32,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Fortree",
+      "secondary_tileset": "gTileset_Twinleaf",
       "border_filepath": "data/layouts/Route119/border.bin",
       "blockdata_filepath": "data/layouts/Route119/map.bin"
     },
