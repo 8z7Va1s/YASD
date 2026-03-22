@@ -213,3 +213,6 @@ const u16 gMetatileAttributes_NewBark[] = INCBIN_U16("data/tilesets/secondary/ne
 
 const u16 gMetatiles_Twinleaf[] = INCBIN_U16("data/tilesets/secondary/twinleaf/metatiles.bin");
 const u16 gMetatileAttributes_Twinleaf[] = INCBIN_U16("data/tilesets/secondary/twinleaf/metatile_attributes.bin");
+
+const u16 gMetatiles_Jubilife[] = INCBIN_U16("data/tilesets/secondary/jubilife/metatiles.bin");
+const u16 gMetatileAttributes_Jubilife[] = INCBIN_U16("data/tilesets/secondary/jubilife/metatile_attributes.bin");
