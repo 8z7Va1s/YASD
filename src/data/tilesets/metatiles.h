@@ -216,3 +216,6 @@ const u16 gMetatileAttributes_Twinleaf[] = INCBIN_U16("data/tilesets/secondary/t
 
 const u16 gMetatiles_Jubilife[] = INCBIN_U16("data/tilesets/secondary/jubilife/metatiles.bin");
 const u16 gMetatileAttributes_Jubilife[] = INCBIN_U16("data/tilesets/secondary/jubilife/metatile_attributes.bin");
+
+const u16 gMetatiles_Oreburgh[] = INCBIN_U16("data/tilesets/secondary/oreburgh/metatiles.bin");
+const u16 gMetatileAttributes_Oreburgh[] = INCBIN_U16("data/tilesets/secondary/oreburgh/metatile_attributes.bin");
